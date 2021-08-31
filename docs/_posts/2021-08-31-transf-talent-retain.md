@@ -12,4 +12,5 @@ For every job phased out by technologies such as automation, three to four new j
 
 Conclusively, the digitization of society puts demands on businesses to modernize and employ a talent retainment strategy that focuses on re- and upskilling of talent. The IT industry is especially susceptible to skills being declared irrelevant, and thus the question should be the centre of attention in each company's peoples strategy.  
 
+##Sources
 [World Economic Forum: Digital Transformation](https://reports.weforum.org/digital-transformation/understanding-the-impact-of-digitalization-on-society/)
