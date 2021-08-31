@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The digital transformation of society and talent retainment"
-date: 2021-08-30 19:00:00 -0000
+date: 2021-08-31 19:30:00 -0000
 categories:
 ---
 We discussed the transformation of the project management role in the previous post. That topic being narrow, it can be interesting to reflect on a more distant perspective, digitization of society and its impacts. 
