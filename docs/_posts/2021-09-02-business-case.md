@@ -6,7 +6,7 @@ categories:
 ---
 A guide to the Project Management Body of Knowledge, PMBOK Guide, is one of the books on the literature list in my current course on Strategies, Benefit and Alignment. 
 
-One section of the book that captured my interest is the one covering project business cases. A business case should cover the following bullets: 
+One section of the book's first chapter that captured my interest is the one covering project business cases. A business case should cover the following bullets: 
 - Business needs; explaining the need for the project, the intended value, and which stakeholders are concerned by the project. 
 - Analysis of the situation; the project's goals and objectives, risks, success factors and root causes.
 - The recommended option for the project. 
