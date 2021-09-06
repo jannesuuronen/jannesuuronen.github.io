@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Management in Industry 4.0"
-date: 2021-09-06 17:00:00 -0000
+date: 2021-09-04 17:00:00 -0000
 categories:
 ---
 
