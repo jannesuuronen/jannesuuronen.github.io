@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Management in Industry 4.0"
+title: "Strategy value cycle"
 date: 2021-09-07 21:00:00 -0000
 categories:
 ---
