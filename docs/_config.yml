@@ -22,7 +22,7 @@ title: IT Project Management
 email: janne.tapani.suuronen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog reflecting and commenting on specifics and events related to Strategies, Benefit and Alignment as the topics are being studied. 
-baseurl: "/jannesuuronen" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jannesuuronen
 
