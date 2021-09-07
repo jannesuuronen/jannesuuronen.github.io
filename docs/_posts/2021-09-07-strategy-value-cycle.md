@@ -16,3 +16,4 @@ A company strategy is essential and defines the company's desired direction. The
 
 Working as a developer, not too often, I find myself only knowing so much about the position of a project in the company landscape. Learning about what and where the project's outcomes end up will ultimately improve the quality of my work, as I can better understand what value is going to be realized. 
 
+
