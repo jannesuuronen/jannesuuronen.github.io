@@ -7,7 +7,7 @@ categories:
 This week's lecture focused on value and benefits and how we manage benefits. 
 
 One section of the lecture described the connection between value and benefits and how they fit into the big picture. The diagram below illustrates the relationships in a simple manner. 
-![A diagram](/assets/strategy-value-cycle.png)
+![A diagram](_site/assets/strategy-value-cycle.png)
 
 Since a long time back, it is my firm belief that it is essential to realize how things intertwine with each other to make better decisions, whether it is business, design or implementation related. The diagram showcases the importance of just that, having a holistic view of how everything is connected. 
 
