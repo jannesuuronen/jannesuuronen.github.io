@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The new communicative responsibility of PMs"
+title: "Vital skills for successful digital leaders"
 date: 2021-09-10 19:00:00 -0000
 categories:
 ---
