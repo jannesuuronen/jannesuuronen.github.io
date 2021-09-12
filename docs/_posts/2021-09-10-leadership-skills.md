@@ -1,4 +1,10 @@
-The rounding off this week's posts, and the trilogy of posts covering seven good-to-know aspects for PMs, is an entry focusing on the skills needed to be a successful digital leader, as suggested by the CIO in an interview they conducted with several Chief Information Officers.
+---
+layout: post
+title: "The new communicative responsibility of PMs"
+date: 2021-09-10 19:00:00 -0000
+categories:
+---
+Rounding off this week's posts, and the trilogy of posts covering seven good-to-know aspects for PMs, is an entry focusing on the skills needed to be a successful digital leader, as suggested by the CIO in an interview they conducted with several Chief Information Officers.
 
 In particular, being a leader for comprehensive organizations puts significant pressure on having an adequate skill set that allows you to live up to expectations. The CIO's interview suggests that the following skills are needed to be successful in a digital leadership role: 
 1. Adaptability
