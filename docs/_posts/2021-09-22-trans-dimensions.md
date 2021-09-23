@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The four dimensions of digital transformation"
+title: "The four dimensions of digital transformation(Contin.)"
 date: 2021-09-23 12:00:00 -0000
 categories:
 ---
