@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The four dimensions of digital transformation(Contin.)"
-date: 2021-09-23 12:00:00 -0000
+date: 2021-09-22 12:00:00 -0000
 categories:
 ---
 This post will cover the two remaining dimensions of digital transformation strategies as described by M. Christian et al. Recall that there are four essential dimensions in total: 
