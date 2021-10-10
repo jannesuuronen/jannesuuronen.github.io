@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project selection methods: The sacred cow""
+title: "Project selection methods: The sacred cow"
 date: 2021-10-07 19:00:00 -0000
 categories:
 ---
