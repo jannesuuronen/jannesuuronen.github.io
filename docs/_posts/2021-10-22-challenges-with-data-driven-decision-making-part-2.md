@@ -3,7 +3,7 @@ layout: post
 title: "Challenges with data-driven decision-making Part 2"
 date: 2021-10-22 19:00:00 -0000
 categories:
----I
+---
 
 n the last post, we touched on two challenges to consider when employing data-driven decision-making. With this post, we'll round out this discussion by looking at two additional challenges. 
 
