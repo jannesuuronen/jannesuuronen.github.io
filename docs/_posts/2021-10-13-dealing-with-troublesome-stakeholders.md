@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Competence vs. Capability"
+title: "Dealing with troublesome stakeholders"
 date: 2021-10-13 19:00:00 -0000
 categories:
 ---
