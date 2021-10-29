@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote Stakeholder Management"
-date: 2021-10-14 19:00:00 -0000
+date: 2021-10-15 19:00:00 -0000
 categories:
 ---
 
